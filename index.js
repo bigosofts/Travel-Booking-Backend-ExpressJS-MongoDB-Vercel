@@ -43,7 +43,7 @@ io.on("connection", (socket) => {
 });
 
 const allowedOrigins = [
-  "https://travel-booking-website-with-live-chat.vercel.app",
+  "https://travel-booking-frontend-next-js-redux-vercel.vercel.app",
   "http://localhost:3000",
   // Add more origins as needed
 ];
