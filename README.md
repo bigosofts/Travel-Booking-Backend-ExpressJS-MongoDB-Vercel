@@ -149,6 +149,6 @@ Frontend is also in my github repository. Search for Travel-Booking-Frontend-Nex
 
 ## Tech Stack
 
-**backend:** NodeJS, ExpressJS, Mongoose, JWT, Bycrypt
+**Backend:** NodeJS, ExpressJS, Mongoose, JWT, Bycrypt
 
 **Deployment:** Vercel Serverless. On Production for 6 months
