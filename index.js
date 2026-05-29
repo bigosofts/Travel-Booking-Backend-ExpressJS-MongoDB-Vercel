@@ -45,6 +45,7 @@ io.on("connection", (socket) => {
 const allowedOrigins = [
   "https://travel-booking-frontend-next-js-redux-vercel.vercel.app",
   "http://localhost:3000",
+  "https://travel.bigosofts.com"
   // Add more origins as needed
 ];
 //Middleware Implementation
